@@ -130,6 +130,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Store.cpp" />
     <ClCompile Include="Toys.cpp" />
+    <ClCompile Include="Toys2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Store.h" />
