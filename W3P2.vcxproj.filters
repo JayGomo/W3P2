@@ -27,6 +27,9 @@
     <ClCompile Include="Toys2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Store2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Store.h">
